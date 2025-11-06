@@ -4,6 +4,7 @@ A modern and interactive **Kanban-style CRM** to manage **Won** and **Lost** dea
 Built using React, featuring drag & drop cards, smooth animations, and confetti when deals are won 🎉
 
 ---
+Preview - https://kanban-crm-azure.vercel.app/
 
 ## ✨ Features
 
